@@ -1,6 +1,7 @@
 ### Hi there
 I am Python developer and data analyst.
-I try to apply all new knowledge in programming to this huge experience in banking and economic analisys I got so far. 
+
+I try to apply all new knowledge in programming to this huge experience in banking and economic analysis I got so far. 
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,3 +14,6 @@ I try to apply all new knowledge in programming to this huge experience in banki
 -->
 
 ### :hammer_and_wrench: Languages and Tools :
+[!https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg]
+[!https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg]
+[!https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg]
