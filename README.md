@@ -14,6 +14,9 @@ I try to apply all new knowledge in programming to this huge experience in banki
 -->
 
 ### :hammer_and_wrench: Languages and Tools :
-[!https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg]
-[!https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg]
-[!https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg]
+<div>
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="60" height="60"/>
+</div>
